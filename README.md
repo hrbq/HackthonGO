@@ -1,3 +1,3 @@
 # HackthonGO
 
-Hello I amd Umin
+Hello I am Umin
